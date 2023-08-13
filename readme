@@ -13,3 +13,19 @@ Example usage:
 
 ```sh
 $ npm start
+
+# Project Name
+
+Short description of your project.
+
+## Installation
+
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+
+## Usage
+
+Example usage:
+
+```sh
+$ npm start
